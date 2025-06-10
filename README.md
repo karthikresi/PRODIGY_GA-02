@@ -40,11 +40,10 @@ Files in This Repository:
 
 image_generation_pre_trainedmodels.ipynb – The Colab notebook used for this task
 
-(Optional) Folder named 'generated_samples' that contains the images created from different prompts
 
 Sample Output:
 Prompt: Circle with gradient
-Output: (image shown here if uploaded)
+Output: 
 
 Intern Details:
 Internship: Generative AI – Prodigy Infotech
